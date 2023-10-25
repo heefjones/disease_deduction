@@ -6,7 +6,7 @@
 
 **"Natural Language Prodigies"**
 
-**Authors**: [Heath Jones](mailto:), [Yasitha De Alwis](mailto:), [Nick Kai](mailto:nhknicholas@gmail.com), [Tristan Trechsel](mailto:tristantrechsel@gmail.com)
+**Authors**: [Heath Jones](mailto:jimmyhj9@gmail.com), [Yasitha De Alwis](mailto:ydealwis@gmail.com), [Nick Kai](mailto:nhknicholas@gmail.com), [Tristan Trechsel](mailto:tristantrechsel@gmail.com)
 
 ## Overview
 
@@ -25,11 +25,7 @@ The National Transportation Safety Board maintains records of all investigations
 
 ## Methods
 
-This project uses a variety of data cleaning methods to organize and subset the data such as: 
-- Dropping irrelevant properties.
-- Filling in null values.
-- Slicing, dicing, and filtering. 
-- Created new columns to analyze injury severity and aircraft damage severity by manufacturer.
+
   
 ## Results
 
@@ -46,9 +42,9 @@ This project uses a variety of data cleaning methods to organize and subset the 
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Aviation_Data_Project_Notebook.ipynb), review this [presentation](./Shirleys_Presentation.pdf), or take a look at our [Tableau Dashboard](https://public.tableau.com/views/DontCallMeShirleyDashboardAviationData/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+See the full analysis in the [Jupyter Notebook](./Aviation_Data_Project_Notebook.ipynb), review this [presentation](./Presentation.pdf).
 
-For additional info, contact Heath Jones at [@gmail.com](mailto:@gmail.com), Yasitha De Alwis at [@gmail.com](mailto:@gmail.com), Nick Kai at [nhknicholas@gmail.com](mailto:nhknicholas@gmail.com), or Tristan Trechsel at [tristantrechsel@gmail.com](mailto:tristantrechsel@gmail.com).
+For additional info, contact Heath Jones at [@gmail.com](mailto:jimmyhj9@gmail.com), Yasitha De Alwis at [@gmail.com](mailto:ydealwis@gmail.com), Nick Kai at [nhknicholas@gmail.com](mailto:nhknicholas@gmail.com), or Tristan Trechsel at [tristantrechsel@gmail.com](mailto:tristantrechsel@gmail.com).
 
 ![logo](./images/.jpg)
 
