@@ -1,4 +1,3 @@
-# p4-project
 
 ![](./images/docpad.jpg)
 
@@ -63,7 +62,6 @@ See the full analysis in the [Jupyter Notebook](./.ipynb), review this [presenta
 
 For additional info, contact Heath Jones at [@gmail.com](mailto:jimmyhj9@gmail.com), Yasitha De Alwis at [@gmail.com](mailto:ydealwis@gmail.com), Nick Kai at [nhknicholas@gmail.com](mailto:nhknicholas@gmail.com), or Tristan Trechsel at [tristantrechsel@gmail.com](mailto:tristantrechsel@gmail.com).
 
-![logo](./images/.jpg)
 
 ## Repository Structure
 
