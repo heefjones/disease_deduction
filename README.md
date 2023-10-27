@@ -32,7 +32,8 @@ We then began the modeling process by testing various algorithms varying from Lo
 We then fine-tuned these models by adjusting various Hyperparameters to improve model accuracy.
 
 After hitting a plateau in accuracy due to our models incorrectly classifying significant portions of class 5, we decided to drop it and focus on improving accuracy for our specific fields of study.
-![img](./images/conmtrx.png)
+![conmatrx](https://github.com/heefjones/natural_language_prodigies/assets/141749731/f9468a4c-e789-4dee-90fa-137d611086f8)
+
 We then worked to reduce the dimensions of the data by using LSA and adjusting the number of components.
 
   
