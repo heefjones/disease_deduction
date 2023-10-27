@@ -1,6 +1,6 @@
 # p4-project
 
-![](./images/docpad.jpeg)
+![](./images/docpad.jpg)
 
 # Natural Language Processing Data Project
 
@@ -16,7 +16,7 @@
 
 Develop a highly accurate and reliable NLP model to automate the categorization of medical research papers into one of four major disease categories, thereby accelerating research, enhancing accessibility, and facilitating a more efficient allocation of medical expertise and resources.
 
-![img](./images/grey.jpg)
+![img](./images/grey.jpeg)
 
 
 ## Data
