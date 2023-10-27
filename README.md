@@ -60,7 +60,7 @@ From this project, we reached the following conclusions Neural Networks tend to 
 
 See the full analysis in the [Jupyter Notebook](./.ipynb), review this [presentation](./Presentation.pdf).
 
-For additional info, contact Heath Jones at [@gmail.com](mailto:jimmyhj9@gmail.com), Yasitha De Alwis at [@gmail.com](mailto:ydealwis@gmail.com), Nick Kai at [nhknicholas@gmail.com](mailto:nhknicholas@gmail.com), or Tristan Trechsel at [tristantrechsel@gmail.com](mailto:tristantrechsel@gmail.com).
+For additional info, contact Heath Jones at [jimmyhj9@gmail.com](mailto:jimmyhj9@gmail.com), Yasitha De Alwis at [ydealwis@gmail.com](mailto:ydealwis@gmail.com), Nick Kai at [nhknicholas@gmail.com](mailto:nhknicholas@gmail.com), or Tristan Trechsel at [tristantrechsel@gmail.com](mailto:tristantrechsel@gmail.com).
 
 
 ## Repository Structure
