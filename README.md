@@ -32,7 +32,7 @@ We then began the modeling process by testing various algorithms varying from Lo
 We then fine-tuned these models by adjusting various Hyperparameters to improve model accuracy.
 
 After hitting a plateau in accuracy due to our models incorrectly classifying significant portions of class 5, we decided to drop it and focus on improving accuracy for our specific fields of study.
-![img](./images/Conf Matrix upd.png)
+![img](./images/Conf_Matrix_upd.png)
 We then worked to reduce the dimensions of the data by using LSA and adjusting the number of components.
 
   
