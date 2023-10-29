@@ -45,7 +45,12 @@ Our best model achieved an accuracy of 81.9% with our limited dataset, allowing 
 </p>
 
 ## Conclusions
-From this project, we reached the following conclusions Neural Networks tend to be the most efficient and effective way of parsing through large and complex datasets such as these. We also believe that if were able to access more data, we would be able to more effective train our neural network to achieve an even higher accuracy.
+From this project, we reached the following conclusions Neural Networks tend to be the most efficient and effective way of parsing through large and complex datasets such as these. We also believe that if were able to access more data, we would be able to more effectively train our neural network to achieve an even higher accuracy.
+
+# Final Recommendation: The Disease Deducer
+A neural network with 2 stacks of [100-node hidden layers, batch normalization, and 50% dropout]. We used the Adam optimizer with a batch size of 32, and latent semantic analysis with 100 components.
+- This model achieved a classification accuracy of 81.5% on unseen data, and a log loss of 0.507.
+- 
   ![](./images/cheer.jpg)
 
 ### Next Steps
