@@ -50,7 +50,7 @@ From this project, we reached the following conclusions Neural Networks tend to 
 # Final Recommendation: The Disease Deducer
 A neural network with 2 stacks of [100-node hidden layers, batch normalization, and 50% dropout]. We used the Adam optimizer with a batch size of 32, and latent semantic analysis with 100 components.
 - This model achieved a classification accuracy of 81.5% on unseen data, and a log loss of 0.507.
-- 
+
   ![](./images/cheer.jpg)
 
 ### Next Steps
@@ -63,7 +63,7 @@ A neural network with 2 stacks of [100-node hidden layers, batch normalization, 
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./.ipynb), review this [presentation](./Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./models_overview.ipynb), review this [presentation](./Presentation_NaturalLanguageProdigies.pdf).
 
 For additional info, contact Heath Jones at [jimmyhj9@gmail.com](mailto:jimmyhj9@gmail.com), Yasitha De Alwis at [ydealwis@gmail.com](mailto:ydealwis@gmail.com), Nick Kai at [nhknicholas@gmail.com](mailto:nhknicholas@gmail.com), or Tristan Trechsel at [tristantrechsel@gmail.com](mailto:tristantrechsel@gmail.com).
 
@@ -73,7 +73,7 @@ For additional info, contact Heath Jones at [jimmyhj9@gmail.com](mailto:jimmyhj9
 ```
 ├── code
 │   ├── data_cleaning.ipynb
-│   ├── simple_models.ipynb
+│   ├── models_overview.ipynb
 ├── data
 │   ├── train.dat
 │   ├── train_cleaned.csv
@@ -81,5 +81,5 @@ For additional info, contact Heath Jones at [jimmyhj9@gmail.com](mailto:jimmyhj9
 ├── images
 ├── .gitignore
 ├── README.md
-└── Presentation.pdf
+└── Presentation_NaturalLanguageProdigies.pdf
 ```
