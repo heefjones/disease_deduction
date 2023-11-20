@@ -1,7 +1,7 @@
 
 ![](./images/docpad.jpg)
 
-# Natural Language Processing Data Project
+# Disease Deduction
 
 **"Natural Language Prodigies"**
 
